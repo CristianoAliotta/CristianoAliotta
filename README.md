@@ -12,7 +12,7 @@
 ### <img align='center' src="https://media.giphy.com/media/5QQ6FpAQ0syYLkONPB/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const Cris = {
+const cris = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, SCSS, C#],
   tools: [Angular, Node, Storybook, Styled-Components],
