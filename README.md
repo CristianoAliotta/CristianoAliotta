@@ -15,7 +15,7 @@
 const thai = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, SCSS, C#],
-  tools: [Angular, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [Angular, Node, Storybook, Styled-Components],
   architecture: ["microservices", "event-driven", "design system pattern"],
  challenge: "I am doing the #100DaysOfCode challenge focused on Angular"
 }
