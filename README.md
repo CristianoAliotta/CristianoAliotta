@@ -4,8 +4,7 @@
 <p><em>Full-stack developer at<a href="https://epicode.com/it/landing-web-developer-a/?utm_source=googleads&utm_campaign=brand&utm_adgroup=brandexact&utm_term=epicode&utm_campaign=Brand+QI+Target&utm_source=adwords&utm_medium=ppc&hsa_acc=1246633295&hsa_cam=16691982470&hsa_grp=138769335350&hsa_ad=589723747623&hsa_src=g&hsa_tgt=kwd-1083842420863&hsa_kw=epicode&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jeif9btekI_9y_o_hQYKUZorfZD_n2kAoDeUm_5uo9eS3Ga5BeIH7oaAqDvEALw_wcB">Epicode School</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Aspiring UI/UX designer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Telegram: CristianoAliotta](	https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io)](https://telegram.me/CristianoAliotta)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: Cristiano Aliotta](https://img.shields.io/badge/-cristiano-aliotta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianoaliotta/)](https://www.linkedin.com/in/cristiano-aliotta-18a439257/)
 [![GitHub CristianoAliotta](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
