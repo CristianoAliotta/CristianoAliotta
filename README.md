@@ -12,7 +12,7 @@
 ### <img align='center' src="https://media.giphy.com/media/5QQ6FpAQ0syYLkONPB/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const Cris = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, SCSS, C#],
   tools: [Angular, Node, Storybook, Styled-Components],
@@ -22,7 +22,7 @@ const thai = {
 ```
 
 
-<img align='center' src="https://media.giphy.com/media/0Awb0MITzU2efaxrS2/giphy.gif" width="90"> <em><b>I love making new friends,</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img align='center' src="https://media.giphy.com/media/0Awb0MITzU2efaxrS2/giphy.gif" width="90"> <em><b>I love making new friends,</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
 <div align="center">
   <h4>Languages & Tools:</h4>
