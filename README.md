@@ -21,6 +21,9 @@ const thai = {
 }
 ```
 
+
+<img align='center' src="https://media.giphy.com/media/0Awb0MITzU2efaxrS2/giphy.gif" width="90"> <em><b>I love making new friends,</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 <div align="center">
   <h4>Languages & Tools:</h4>
  
@@ -56,5 +59,3 @@ const thai = {
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="border-radius:10%">
   </a>
 </div>
-
-<img align='center' src="https://media.giphy.com/media/0Awb0MITzU2efaxrS2/giphy.gif" width="90"> <em><b>I love making new friends,</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
