@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Cristiano Aliotta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Full-stack developer at<a href="https://epicode.com/it/landing-web-developer-a/?utm_source=googleads&utm_campaign=brand&utm_adgroup=brandexact&utm_term=epicode&utm_campaign=Brand+QI+Target&utm_source=adwords&utm_medium=ppc&hsa_acc=1246633295&hsa_cam=16691982470&hsa_grp=138769335350&hsa_ad=589723747623&hsa_src=g&hsa_tgt=kwd-1083842420863&hsa_kw=epicode&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jeif9btekI_9y_o_hQYKUZorfZD_n2kAoDeUm_5uo9eS3Ga5BeIH7oaAqDvEALw_wcB">Epicode School</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Aspiring UI/UX designer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Full-stack developer at<a href="https://epicode.com/it/landing-web-developer-a/?utm_source=googleads&utm_campaign=brand&utm_adgroup=brandexact&utm_term=epicode&utm_campaign=Brand+QI+Target&utm_source=adwords&utm_medium=ppc&hsa_acc=1246633295&hsa_cam=16691982470&hsa_grp=138769335350&hsa_ad=589723747623&hsa_src=g&hsa_tgt=kwd-1083842420863&hsa_kw=epicode&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jeif9btekI_9y_o_hQYKUZorfZD_n2kAoDeUm_5uo9eS3Ga5BeIH7oaAqDvEALw_wcB">Epicode School</a><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"></br>Aspiring UI/UX designer<img src="https://media.giphy.com/media/cJAVot5go0jTGlCWfr/giphy.gif" width="30"> 
 </em></p>
 
 
